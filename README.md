@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pratik Sagar
 
 🎓 B.Com (Hons) Graduate | 📊 Aspiring Data Scientist & Analyst  
-📍 Based in India | 💡 Lifelong Learner | 🔗 [LinkedIn](https://www.linkedin.com/in/bindaspratik/)
+📍 Based in Patna, Bihar | 💡 Lifelong Learner | 🔗 [LinkedIn](https://www.linkedin.com/in/bindaspratik/)
 
 ---
 
