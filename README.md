@@ -44,5 +44,5 @@ Despite coming from a non-technical background, I enjoy solving real-world probl
 
 If you’re into data, learning, or looking to collaborate — feel free to reach out!
 
-📧 bindaspratik7@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/bindaspratik/)
+📧 bindaspratik7@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/bindaspratik/) | 🌐 [Portfolio](https://pratiksagarportfolio.my.canva.site/pratiksagar-portfolio)
 
