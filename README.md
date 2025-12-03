@@ -92,30 +92,6 @@ Live weather forecasting using OpenWeatherMap API + Flask UI
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Dynamic stats (try these first) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bindaspratik&show_icons=true&theme=tokyonight&hide_border=false" height="160"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bindaspratik&layout=compact&theme=tokyonight&hide_border=false" height="160"/>
-
-<!-- Fallback badges (always visible if dynamic cards fail) -->
-<p>
-  <img src="https://img.shields.io/badge/Followers-?style=for-the-badge&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/bindaspratik?style=for-the-badge&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/search/count?query=org%3Abindaspratik&type=repositories&style=for-the-badge&label=Repos" alt="Repos"/>
-</p>
-
-<!-- Optional static fallback image hosted in repo -->
-<p>
-  <img src="assets/github-stats-fallback.png" alt="GitHub stats fallback" width="800">
-</p>
-
-</div>
-
-
 ---
 
 ## 🌱 **Currently Learning**
