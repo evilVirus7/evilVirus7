@@ -95,9 +95,18 @@ Live weather forecasting using OpenWeatherMap API + Flask UI
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bindaspratik&show_icons=true&theme=tokyonight&hide_border=true)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bindaspratik&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- GitHub Main Stats -->
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bindaspratik&show_icons=true&theme=tokyonight&hide_border=false" 
+  height="180"
+/>
+
+<!-- Top Languages Card -->
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bindaspratik&layout=compact&theme=tokyonight&hide_border=false" 
+  height="180"
+/>
 
 </div>
 
