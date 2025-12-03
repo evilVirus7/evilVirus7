@@ -124,26 +124,6 @@ I combine my **business understanding + technical skills** to deliver impactful 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Main Stats (community-maintained instance recommended) -->
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bindaspratik&show_icons=true&theme=tokyonight&hide_border=false" 
-  height="180"
-/>
-
-<!-- Top Languages Card -->
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bindaspratik&layout=compact&theme=tokyonight&hide_border=false" 
-  height="180"
-/>
-
-</div>
-
-> If stats fail to render, I can add a fallback static image or help you deploy your own `github-readme-stats` instance.
-
 ---
 
 ## 🌱 **Currently Learning**
