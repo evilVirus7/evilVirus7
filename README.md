@@ -119,11 +119,6 @@ I combine my **business understanding + technical skills** to deliver impactful 
 
 ---
 
-## 📄 **Resume**
-📌 Latest resume (PDF): **[Download Resume (PRATIK SAGAR.pdf)](PRATIK SAGAR.pdf)**
-
----
-
 ---
 
 ## 🌱 **Currently Learning**
