@@ -38,16 +38,8 @@ I combine my **business understanding + technical skills** to deliver impactful 
 </p>
 
 ### 🔹 Libraries & Frameworks  
-<p>
-  <img src="https://skillicons.dev/icons?i=py" height="40"/>  
-</p>
-
-#### Core Packages  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-Learn  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Scikit-Learn, PySpark (Apache Spark 3.0)  
 - Flask / FastAPI  
 
 ### 🔹 Tools & Platforms  
@@ -61,44 +53,104 @@ I combine my **business understanding + technical skills** to deliver impactful 
 
 ## 📈 **Featured Projects**
 
-### 🎬 **Netflix Content Analytics Dashboard**
-Interactive Tableau visual analysis of 6,000+ Netflix titles  
-📊 Genres • Ratings • Global Distribution • Content Growth  
-📌 *Data storytelling + dashboard design*  
-🔗 **Live Dashboard:**  
-https://public.tableau.com/views/NetflixDashboard_17647778380040/Netflix
+> All projects below are end-to-end — from data ingestion and cleaning to modeling, visualization, and deployment where applicable.
 
 ---
 
-### 🪙 **Crypto Liquidity Prediction App**  
-ML-powered liquidity risk detection using crypto dataset  
-- Feature engineering  
-- Predictive modeling  
-- Flask deployment  
-🔗 Live App: https://crypto-currecy-liquidity-ml-project.onrender.com
+### 🎬 **Netflix Content Analytics Dashboard (Tableau)**  
+🔗 https://public.tableau.com/views/NetflixDashboard_17647778380040/Netflix  
+**Tools:** Tableau, Python (EDA)  
+**What I built:** An interactive Tableau dashboard analyzing **6,254+** Netflix titles to reveal content strategy and growth patterns.  
+**Key insights & features:**
+- 68.42% Movies vs 31.58% TV Shows.  
+- Ratings analysis highlighting **TV-MA (2,027)** and **TV-14 (1,698)** leading categories.  
+- Genre analysis (Documentaries, Stand-Up, etc.).  
+- Content growth spike during **2015–2019** (1,300+ titles peak).  
+**Impact:** Translates catalogue-level metrics into strategic storytelling about original content investment.
 
 ---
 
-### 🌦️ **Real-Time Weather Forecast App**  
-Live weather forecasting using OpenWeatherMap API + Flask UI  
-🔗 Live App: https://weather-api-m5av.onrender.com
+### 🚗 **Uber Data Analytics Dashboard (Power BI)**  
+🔗 https://app.powerbi.com/links/d31a_2W-VY?ctid=0a48977d-3953-46e8-8617-7c9fd981b9cd&pbi_source=linkShare  
+**Tools:** Power BI, DAX, SQL, Python (prep)  
+**What I built:** Multi-page Power BI dashboard delivering KPIs, trend analysis, and drill-down capabilities for operational performance.  
+**Key features:**
+- Advanced data modeling and dynamic DAX measures.  
+- Drill-down visuals and performance-optimized visuals for fast UX.  
+- Custom KPIs for business decisions and SLA monitoring.  
+**Impact:** Enabled stakeholders to monitor ride/driver metrics and make data-driven operational improvements.
+
+---
+
+### 🎧 **Spotify Data Analytics Dashboard (Power BI)**  
+🔗 https://app.powerbi.com/links/_59KvxhCIr?ctid=0a48977d-3953-46e8-8617-7c9fd981b9cd&pbi_source=linkShare  
+**Tools:** Power BI, DAX, Python (data cleaning)  
+**What I built:** Interactive dashboard converting raw Spotify streaming data into actionable insights.  
+**Key features:**
+- Dynamic slicers for artist/track/region analysis.  
+- Custom DAX measures for trend detection and KPI tracking.  
+- Clean UI/UX for storytelling with multiple visual types.  
+**Impact:** Simplified interpretation of streaming trends and artist performance metrics.
+
+---
+
+### 🪙 **Cryptocurrency Liquidity Prediction App (Machine Learning + Flask)**  
+🔗 https://crypto-currecy-liquidity-ml-project.onrender.com  
+**Tools:** Python, Scikit-Learn, Flask, SQL/NoSQL for storage, extensive EDA pipelines  
+**What I built:** An enterprise-grade ML app trained on **50,000+ historical data points** to predict liquidity risk.  
+**Key features & metrics:**
+- Ensemble modeling achieving **~85% prediction accuracy**.  
+- Feature engineering optimized for time-series financial signals.  
+- Scalable EDA processing for large volumes (100GB+ time-series).  
+- Flask deployment supporting concurrent users and real-time dashboards.  
+**Impact:** Provides actionable liquidity risk signals for trading/monitoring workflows.
+
+---
+
+### 🌦️ **Real-Time Weather Forecast App (Flask + API)**  
+🔗 https://weather-api-m5av.onrender.com  
+**Tools:** Flask, OpenWeatherMap API, JavaScript (frontend), Python for processing  
+**What I built:** Responsive web app providing live weather forecasts and analytics.  
+**Key features:**
+- Integrates OpenWeatherMap for live data with **1000+ daily calls** handling.  
+- Analytics dashboard displaying 15+ meteorological parameters.  
+- Mobile-friendly UI with responsive charts and KPIs.  
+**Impact:** Reliable, low-latency weather insights for users — designed for monitoring and lightweight analytics.
 
 ---
 
 ## 📄 **Resume**
-📌 Click below to view/download my latest resume:  
-
-👉 **[Download Resume (PDF)](PRATIK SAGAR.pdf)**
+📌 Latest resume (PDF): **[Download Resume (PRATIK SAGAR.pdf)](PRATIK SAGAR.pdf)**
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Main Stats (community-maintained instance recommended) -->
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bindaspratik&show_icons=true&theme=tokyonight&hide_border=false" 
+  height="180"
+/>
+
+<!-- Top Languages Card -->
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bindaspratik&layout=compact&theme=tokyonight&hide_border=false" 
+  height="180"
+/>
+
+</div>
+
+> If stats fail to render, I can add a fallback static image or help you deploy your own `github-readme-stats` instance.
 
 ---
 
 ## 🌱 **Currently Learning**
-- Power BI Advanced DAX  
-- Machine Learning Algorithms  
-- API Integration & Backend Deployments  
-- Tableau Storytelling Techniques  
+- Advanced Machine Learning Algorithms  
+- Power BI (DAX & Advanced Visuals)  
+- API Development & Backend Deployments  
+- MLOps fundamentals
 
 ---
 
@@ -106,7 +158,7 @@ Live weather forecasting using OpenWeatherMap API + Flask UI
 
 📧 Email: **bindaspratik7@gmail.com**  
 💼 LinkedIn: **https://www.linkedin.com/in/bindaspratik/**  
-🌐 Portfolio: **https://professional-portfol-ij99.bolt.host/**  
+🌐 Portfolio: **https://professional-portfol-ij99.bolt.host/**
 
 ---
 
