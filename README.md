@@ -6,7 +6,7 @@
 
 💡 Transforming raw data into decisions  
 📍 Patna, Bihar, India  
-🌐 Portfolio: **https://professional-portfol-ij99.bolt.host/**  
+🌐 Portfolio: **https://pratiksagarportfolio.bolt.host**  
 
 ---
 
