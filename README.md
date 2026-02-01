@@ -133,7 +133,7 @@ I combine my **business understanding + technical skills** to deliver impactful 
 
 📧 Email: **bindaspratik7@gmail.com**  
 💼 LinkedIn: **https://www.linkedin.com/in/bindaspratik/**  
-🌐 Portfolio: **https://professional-portfol-ij99.bolt.host/**
+🌐 Portfolio: **https://pratiksagarportfolio.bolt.host**
 
 ---
 
